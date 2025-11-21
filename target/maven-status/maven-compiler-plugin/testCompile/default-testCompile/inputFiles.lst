@@ -6,5 +6,6 @@ C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\pageObjects\MyAccountP
 C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\testBase\BaseClass.java
 C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\testCases\TC002_LoginTest.java
+C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\testCases\TC003_Search.java
 C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\utilities\ExcelUtils.java
 C:\Users\gul_l\eclipse-workspace\OpencartV2\src\test\java\utilities\ExtendReportManager.java
